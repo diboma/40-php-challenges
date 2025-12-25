@@ -6,7 +6,7 @@ Based on [Brad Traversy's JS Challenges, Data Structures, and Algorithms](https:
 
 Each folder includes:
 
-- `readme.md` - The challenge/code instructions.
+- `readme.md` - The challenge/code instructions. These are the original files, so hints and code examples use Javascript.
 - `[name].php` - This is your working file.
 - `[name]-solution.php` The solution code.
 
