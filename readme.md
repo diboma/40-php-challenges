@@ -12,7 +12,7 @@ Each folder includes:
 
 Sometimes the folder also includes:
 
-- `[name]-solution-eloquent.php` - File to run the code manually. The function is already imported and called with expected parameters.
+- `[name]-solution-eloquent.php` - A solution using Laravel's Eloquent (Collections, array helpers and string helpers).
 - `[name]-run.php` - File to run the code manually. The function is already imported and called with expected parameters.
 
 ## Install dependencies
