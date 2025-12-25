@@ -1,6 +1,6 @@
 # 40 PHP Challenges
 
-Based on [Traversy JS Challenges, Data Structures, and Algorithms](https://github.com/PacktPublishing/70-JavaScript-Challenges---Data-Structures-and-Algorithms)
+Based on [Brad Traversy's JS Challenges, Data Structures, and Algorithms](https://github.com/PacktPublishing/70-JavaScript-Challenges---Data-Structures-and-Algorithms)
 
 ## File Structure
 
