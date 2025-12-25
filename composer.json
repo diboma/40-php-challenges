@@ -1,0 +1,23 @@
+{
+  "require": {
+    "illuminate/collections": "^12.43",
+    "illuminate/support": "^12.43"
+  },
+  "require-dev": {
+    "pestphp/pest": "^3.8",
+    "yiisoft/var-dumper": "^1.7"
+  },
+  "scripts": {
+    "test": "php ./vendor/bin/pest"
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
+  },
+  "autoload": {
+    "files": [
+      "src/helpers.php"
+    ]
+  }
+}
